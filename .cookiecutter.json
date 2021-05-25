@@ -1,0 +1,36 @@
+{
+    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/aa2c3400-a119-4fe5-8b6b-d2d2dadb1b9f/template",
+    "access": "fp-mt",
+    "artifact_id": "matthews-lib",
+    "component_id": "matthews-lib",
+    "description": "matthews-lib",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/matthews-lib",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/matthews-lib",
+            "name": "matthews-lib",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/matthews-lib",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "matthewslib",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/matthews-lib"
+}
